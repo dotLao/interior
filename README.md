@@ -1,5 +1,5 @@
 # Interior
-## Designing interior spaces with drag-and-drop items, supported by ergonomic and movement analysis
+## Designing interior spaces with drag-and-drop items, supported by movement analysis
 
 **Version: 0.1.0**
 
@@ -29,17 +29,15 @@
 * **Live Catalogues**
    * Strategic partnerships with home decor companies
    * Ability to drag-and-drop catalogued items
-* **Professional Consultant Network**
-   * Ability to connect with *beacons*
-   * Monitoring / Recording Feature
-   * *Next Steps* modal for follow-up services
-   * EMS **Code Red** Button
+* **Room Capture**
+   * User turns on camera and gets a 360 degree image of room to be designed
 * **How a Digital Plan Becomes Reality**
    * Ability to save plans
    * Ability to export catalogued items to cart
    * Ability to purchase catalogued items through app
    * Can pick up in store / schedule shipping through app
-   
+* **Feng Shui Analysis**
+  
 ### Planning
 - [ ] Branding Kit
    - [ ] Logo
