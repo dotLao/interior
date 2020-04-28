@@ -1,2 +1,68 @@
-# interior
-Mobile Application for designing interior spaces, with ergonomic and movement analysis and drag-and-drop items 
+# Interior
+## Designing interior spaces with drag-and-drop items, supported by ergonomic and movement analysis
+
+**Version: 0.1.0**
+
+### Table of Contents
+* [Framework of App](#framework)
+    * [Layout](#layout)
+    * [Features](#features)
+* [Planning](#planning)
+* [Updates](#updates)
+
+### Framework of App
+#### Layout
+* Landing
+* Authorization
+* User Experience :
+  * Dashboard
+  * Room Capture
+  * Catalogue Selection
+  * Friends
+  * Saved Plans
+  * Plan Review
+  * Cart
+  * Payment Processing
+  * Settings
+
+#### Features
+* **Live Catalogues**
+   * Strategic partnerships with home decor companies
+   * Ability to drag-and-drop catalogued items
+* **Professional Consultant Network**
+   * Ability to connect with *beacons*
+   * Monitoring / Recording Feature
+   * *Next Steps* modal for follow-up services
+   * EMS **Code Red** Button
+* **How a Digital Plan Becomes Reality**
+   * Ability to save plans
+   * Ability to export catalogued items to cart
+   * Ability to purchase catalogued items through app
+   * Can pick up in store / schedule shipping through app
+   
+### Planning
+- [ ] Branding Kit
+   - [ ] Logo
+   - [ ] Font
+   - [ ] Color Palette
+- [ ] UI/UX Design
+   - [ ] App Layout
+   - [ ] Desktop Layout
+   - [ ] Mobile Web Layout
+- [ ] iOS Development 
+   - [ ] Make initial framework on xCode
+   - [ ] Landing Page
+   - [ ] Authentication
+     ...
+- [ ] Website Development
+   - [ ] Set up repository
+   - [ ] Write initial HTML framework
+   - [ ] Write initial CSS
+   - [ ] Set up initial JS functionality
+- [ ] Set up Firebase
+
+### Updates
+#### v0.1.0
+**MILESTONE: *Initial Commit***
+
+###### You can reach us at [archon.lao@gmail.com](archon.lao@gmail.com) with questions or comments about Interior.
