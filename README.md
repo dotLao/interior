@@ -14,7 +14,7 @@
 #### Layout
 * Landing
 * Authorization
-* User Experience :
+* User Side :
   * Dashboard
   * Room Capture
   * Catalogue Selection
@@ -23,6 +23,12 @@
   * Plan Review
   * Cart
   * Payment Processing
+  * Settings
+* Affiliate Side :
+  * Dashboard
+  * Catalogue
+  * Recent Orders
+  * Analytics 
   * Settings
 
 #### Features
